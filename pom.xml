@@ -16,19 +16,17 @@
     <modules>
         <module>../github-es4j-es4j-dotnet</module>
         <module>../github-es4j-es4j-logging</module>
-        <module>../github-es4j-generics</module>
+        <module>../github-es4j-es4j-exceptions</module>
+        <module>../github-es4j-es4j-generics</module>
         <module>../github-es4j-es4j-messaging</module>
+        <!--module>../github-es4j-es4j-container</module-->
         <!--module>../github-es4j-es4j-eventstore-api</module-->
-        <module>../github-es4j-es4j-eventstore-core</module>
-        <module>../github-es4j-es4j-container</module>
-        
-        <!--module>../github-es4j-es4j-core</module>
-        <module>../github-es4j-es4j-domainfixture</module>
-        <module>../github-es4j-es4j-domainpersistence</module>
+        <!--module>../github-es4j-es4j-eventstore-core</module-->
+        <!--module>../github-es4j-es4j-core</module-->
         <module>../github-es4j-es4j-eventstore</module>
-        
-        
-        <module>../github-es4j-es4j-persistence-acceptance</module>
+        <!--module>../github-es4j-es4j-domainfixture</module-->
+        <!--module>../github-es4j-es4j-domainpersistence</module-->
+        <!--module>../github-es4j-es4j-persistence-acceptance</module>
         <module>../github-es4j-es4j-sample-etishor</module>
         <module>../github-es4j-es4j-sample-eventstore</module>
         <module>../github-es4j-es4j-serialization</module>
@@ -36,10 +34,10 @@
         <module>../github-es4j-es4j-serialization-axon</module>
         <module>../github-es4j-es4j-serialization-axon_ORIG</module>
         <module>../github-es4j-es4j-serialization-jaxrs</module>
-        <module>../github-es4j-es4j-sqlpersistence</module>
-        <module>../github-es4j-es4j-wireup</module>
-        <module>../github-es4j-eventstore-example</module>
-        <module>../github-es4j-es4j-github-com</module-->
+        <module>../github-es4j-es4j-sqlpersistence</module-->
+        <module>../github-es4j-es4j-eventstore-wireup</module>
+        <module>../github-es4j-es4j-eventstore-example</module>
+        <!--module>../github-es4j-es4j-github-com</module-->
         <!--module>../github-es4j-domain_OLD</module-->
         <!--module>../github-esfand-es4j-dotnet_DELETED</module-->
         <!--module>../github-esfand-es4j-eventstore_DELETED</module-->
