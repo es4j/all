@@ -17,10 +17,7 @@
         <module>../github-es4j-es4j-dotnet</module>
         <module>../github-es4j-es4j-util</module>
         <module>../github-es4j-es4j-container</module>
-        <module>../github-es4j-es4j-messaging-api</module>
-        <!--module>../github-es4j-es4j-container</module-->
-        <!--module>../github-es4j-es4j-api</module-->
-        <!--module>../github-es4j-es4j-core</module-->
+        <module>../github-es4j-es4j-messaging</module>
         <module>../github-es4j-es4j-eventstore-api</module>
         <module>../github-es4j-es4j-eventstore-core</module>
         <!--module>../github-es4j-es4j-domainfixture</module-->
