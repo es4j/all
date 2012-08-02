@@ -18,6 +18,7 @@
         <module>../github-es4j-es4j-util</module>
         <module>../github-es4j-es4j-container</module>
         <module>../github-es4j-es4j-messaging</module>
+        <module>../github-es4j-es4j-serialization-api</module>
         <module>../github-es4j-es4j-eventstore-api</module>
         <module>../github-es4j-es4j-eventstore-core</module>
         <!--module>../github-es4j-es4j-domainfixture</module-->
@@ -31,7 +32,6 @@
         <module>../github-es4j-es4j-serialization-axon_ORIG</module>
         <module>../github-es4j-es4j-serialization-jaxrs</module>
         <module>../github-es4j-es4j-sqlpersistence</module-->
-        <module>../github-es4j-es4j-serialization-api</module>
         <module>../github-es4j-es4j-serialization-main</module>
         <module>../github-es4j-es4j-persistence-sql</module>
         <module>../github-es4j-es4j-eventstore-wireup</module>
