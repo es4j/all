@@ -22,8 +22,8 @@
         <module>../github-es4j-es4j-eventstore-api</module>
         <module>../github-es4j-es4j-eventstore-core</module>
         <module>../github-es4j-es4j-serialization-main</module>
-        <module>../github-es4j-es4j-serialization-axon</module>
-        <module>../github-es4j-es4j-serialization-jaxrs</module>
+        <!--module>../github-es4j-es4j-serialization-axon</module-->
+        <!--module>../github-es4j-es4j-serialization-jaxrs</module-->
         <module>../github-es4j-es4j-serialization-acceptance</module>
         <module>../github-es4j-es4j-persistence-sql</module>
         <module>../github-es4j-es4j-persistence-acceptance</module>
