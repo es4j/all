@@ -14,18 +14,20 @@
     </properties>
 
     <modules>
-        <module>../github-es4j-es4j-dotnet</module>
         <module>../github-es4j-es4j-util</module>
+        <module>../github-es4j-es4j-dotnet</module>
         <module>../github-es4j-es4j-container</module>
         <module>../github-es4j-es4j-serialization-api</module>
         <module>../github-es4j-es4j-messaging</module>
         <module>../github-es4j-es4j-eventstore-api</module>
         <module>../github-es4j-es4j-eventstore-core</module>
         <module>../github-es4j-es4j-serialization-main</module>
+        <module>../github-es4j-es4j-serialization-json</module>
         <!--module>../github-es4j-es4j-serialization-axon</module-->
         <!--module>../github-es4j-es4j-serialization-jaxrs</module-->
         <module>../github-es4j-es4j-serialization-acceptance</module>
         <module>../github-es4j-es4j-persistence-sql</module>
+        <module>../github-es4j-es4j-persistence-mongo</module>
         <module>../github-es4j-es4j-persistence-acceptance</module>
         <module>../github-es4j-es4j-eventstore-wireup</module>
         <module>../github-es4j-es4j-eventstore-example</module>
